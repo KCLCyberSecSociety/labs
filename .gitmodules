@@ -1,0 +1,3 @@
+[submodule "beginner/SocketMessenger"]
+	path = beginner/SocketMessenger
+	url = https://github.com/KCLCyberSecSociety/py-socket-messenger.git
